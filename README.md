@@ -1,3 +1,5 @@
+Cool looking
+
 # Jekyll template
 Beautiful responsive portfolio style template for designers and web developers
 
